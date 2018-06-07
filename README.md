@@ -1,3 +1,4 @@
+# Without error: More than one instance of bitcore-lib found
 Bitcore Library
 =======
 
@@ -14,11 +15,11 @@ Bitcoin is a powerful new peer-to-peer platform for the next generation of finan
 ## Get Started
 
 ```
-npm install bitcore-lib
+npm install icexch/bitcore-explorers
 ```
 
 ```
-bower install bitcore-lib
+bower install icexch/bitcore-explorers
 ```
 
 ## Documentation
